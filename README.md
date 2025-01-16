@@ -5,7 +5,7 @@ Please note that the files is provided as an educational resource for learning p
 
 This repository contains all the assets needed for your hotel to operate. More specifically it contains:
 - The default swf pack from Krews
-- Puffin's BoBBa Catalog 1.5 
+- Puffin's BoBBa Catalog 2.5 
 - xlRaiko clothing pack
 - Converted assets for the nitro client
 
