@@ -1,0 +1,343 @@
+
+    
+
+            <!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="robots" content="follow, index">
+    <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
+    <title>Page introuvable! - Habbox</title>
+
+    <meta name="description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+    <meta name="keywords" content="habbox, habboz, habbo, habbo hotel, habbocity, habbo city, habbo alpha, habboalpha, habboo, rétro, rétro habbo, bobbalive, adohotel, bobbahotel, habbix, jeu en ligne, serveur habbo, communauté, avatar, jeu, cosmic, virtual, world, social network, free, community, avatar, chat, online, teen, roleplaying, join, social, groups, forums, safe, play, games, online, friends, teens, rare, rare meubi, collect, make, collect, contact, meubi, furniture, pets, furnish room, share, expression, badges, hangout, music, celebrity, VIP visits, celebs, mmo, mmorpgs, massive multiplayer, dox , dox hotel, dox hotel, space hotel, space hotel, space, sunnie, sunnie day, sunnieday, habbo, HABBO, habbo hotel, habboo, habbo city, habbocity, cool, virtual world, vip, retro, retro hotel, habbo retro, free, free habbo, holo">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Habbox">
+    <meta name="twitter:description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+    <meta name="twitter:image" content="https://www.habbox.fr/assets/images/habbox_hotel.png">
+    <meta name="twitter:site" content="@habboxfrance">
+    <meta name="twitter:url" content="https://www.habbox.fr">
+    <meta name="twitter:widgets:csp" content="on">
+
+    <meta property="og:title" content="Habbox Hôtel">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.habbox.fr">
+    <meta property="og:image" content="https://www.habbox.fr/assets/images/habbox_hotel.png">
+    <meta property="og:description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+    <meta property="og:site_name" content="Habbox">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/bbeditor.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/fonts.css">
+    <link rel="stylesheet" href="/assets/css/flaticon.css">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="/assets/css/homes.css">
+    <link rel="stylesheet" href="/assets/css/selectric.css">
+    <link rel="stylesheet" href="/assets/css/circle.css?v=5">
+    <link rel="stylesheet" href="/assets/css/web.light.css?v=4fce6a88841514ad4a5bb5bfe8931926">
+    <link rel="stylesheet" href="/assets/css/web.responsive.css">
+
+    <script src="https://kit.fontawesome.com/3929b306a6.js" crossorigin="anonymous" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+
+    <script src="/assets/js/jquery-3.2.1.min.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+    <script src="/assets/js/jquery.ui.touch-punch.min.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+
+
+    <script type="439d0723e6ff6c67f20d9332-text/javascript">
+        var Site = {
+            name: "Habbox",
+            url: "https://habbox.fr",
+            game_url: "https://habbox.fr/nitro",
+            figure_url: "https://images.habbox.fr/habbox-imaging"
+        }
+
+                var User = {
+            id: 0,
+            username: "",
+            online: 0,
+            is_logged: false,
+            is_staff: false
+        }
+                var Configuration = {
+                revision: "2213",
+            cache: "4fce6a88841514ad4a5bb5bfe8931926",
+            findretros: false        }
+    </script>
+</head>
+
+<body class="flex-container flex-direction-column">
+<noscript>
+    <style>
+        .loading-container {
+            display: none;
+        }
+    </style>
+</noscript>
+<div class="loading-container">
+    <div id="loading-background"></div>
+    <div class="loading-content">
+        <div class="c100 center">
+            <span></span>
+            <div class="slice">
+                <div class="bar"></div>
+                <div class="fill"></div>
+            </div>
+        </div>
+        <div class="loading-bodytext"></div>
+    </div>
+</div>
+
+<div class="page-loading"></div>
+<div class="notifications-container"></div>
+
+<div class="cookies-accept-container">
+    <div class="close-container">&times;</div>
+    Habbox utilise ses propres cookies afin de vous garantir le meilleur service avec un contenu qui correspond au mieux. Si tu navigues sur notre site web, tu dois accepter notre politique en matière de cookies.
+    <a href="/help" target="_blank">Lire plus</a>
+</div>
+
+<div id="about-dialog" class="login-popup zoom-anim-dialog mfp-hide">
+    <h1 class="aside-title">Habbox</h1>
+    <p>Merci d&#039;avoir joué sur Habbox!<br>Habbox a été conçu avec beaucoup d&#039;amour
+        ♥<br><br>
+    <h4>Cosmic 2.1.0</h4>Raizer
+    </p>
+
+    <h5>Ainsi qu&#039;à tous les utilisateurs d&#039;Habbox Habbox's ♥</h5>
+</div>
+
+<div id="login-dialog" class="login-popup zoom-anim-dialog mfp-hide">
+    <h3 class="title">Connexion</h3>
+    <div class="login-form">
+        <form class="login-form" action="#">
+        <label for="login-username-input-target" class="username-input">
+            <input type="text" name="username" id="login-username-input-target"
+                   placeholder="Pseudo..." required>
+        </label>
+        <label for="login-password-input-target" class="password-input mt_1">
+            <input type="password" name="password"
+                   id="login-password-input-target" placeholder="Mot de passe..." autocomplete="off"
+                   required>
+        </label>
+        <input type="hidden" name="csrftoken" value="" />
+        <div class="text-center mt_2">
+            <a href="/password/claim" target="_self" data-close-popup="true"
+               class="light">Mot de passe oublié ?</a>
+        </div>
+        <button type="submit" class="rounded-button light plain mt_1" id="login-request">Se connecter</button>
+        </form>
+    </div>
+</div>
+
+<div class="left-nav ">
+    <div class="absolute-menu">
+        <div class="left-nav-menu">
+            <img src="/assets/icons/croix.svg" alt="close" class="left-nav-menu-wrapper">
+        </div>
+    </div>
+    <div class="habbox-logo">
+        <a href="/home">
+                        <img src="/assets/images/habbox.gif" class="index-logo classic" alt="logo">
+                    </a>
+    </div>
+        <div class="user-buttons">
+                <button class="rounded-button white login-dialog-button">Se connecter</button>
+        <a href="/registration" target="_self" class="rounded-button white plain">S&#039;inscrire</a>
+            </div>
+    
+    <div class="navigation-links">
+        <div class="navigation-item">
+            <a href="/ranking/wealth">
+                <div class="nav-highscore  navigation-link tooltip" data-page="games_ranking">
+                    <span class="text">Classements</span>
+                </div>
+            </a>
+        </div>
+
+        <div class="navigation-item">
+            <a href="/articles">
+                <div class="nav-community  navigation-link tooltip" data-page="article">
+                    <span class="text">Communauté</span>
+                </div>
+            </a>
+        </div>
+
+        <div class="navigation-item">
+            <a href="/community/staff">
+                <div class="nav-team  navigation-link tooltip" data-page="community_staff">
+                    <span class="text">Équipe</span>
+                </div>
+            </a>
+        </div>
+
+            </div>
+
+    </div>
+
+<section class="body-container margin-body">
+    
+    <div class="more-box social-box" style="display: none;">
+        <a href="https://twitter.com/habboxfrance" target="_blank" class="more-row">
+            <img src="/assets/icons/social/twitter.svg" alt="Twitter">
+            Twitter
+        </a>
+        <a href="https://www.instagram.com/habboxfrance/" target="_blank" class="more-row">
+            <img src="/assets/icons/social/instagram.svg" alt="Instagram">
+            Instagram
+        </a>
+        <a href="https://www.facebook.com/habboxfrance" target="_blank" class="more-row">
+            <img src="/assets/icons/social/facebook.svg" alt="Facebook">
+            Facebook
+        </a>
+        <a href="https://www.tiktok.com/@habboxfrance" target="_blank" class="more-row">
+            <img src="/assets/icons/social/tiktok.svg" alt="Tiktok">
+            Tiktok
+        </a>
+        <a href="https://discord.habbox.fr/" target="_blank" class="more-row">
+            <img src="/assets/icons/social/discord.svg" alt="Discord">
+            Discord
+        </a>
+    </div>
+    <div class="more-button social-button"><img src="/assets/icons/social/social.svg" alt=""></div>
+
+    <div class="navigation-top">
+        <div class="top-menu" style="flex: 0">
+            <div class="navigation-top-menu">
+                <img src="/assets/icons/points.svg" alt="close" class="navigation-top-menu-wrapper">
+            </div>
+        </div>
+            </div>
+    <div class="page-container" data-page="lost">
+        <div class="page-content">
+    <div class="text-center error404">
+        <img src="/assets/images/404.png" alt="404" width="70%">
+        <p>Désolé, mais la page que tu cherches n&#039;existe pas.</p>
+        <p>Vérifie de nouveau si tu te trouves sur le bon lien URL. Si tu reviens-ici (Bon retour parmi-nous!). Retourne ensuite d&#039;où tu viens avec le bouton retour si tu le souhaites!</p>
+        <p><b>Peut-être que tu cherches...</b></p>
+        <div class="choices">
+            <a href="/ranking/wealth" class="myBtn">Classements</a>
+            <a href="/hotel" class="myBtn">Navigateur</a>
+        </div>
+    </div>
+</div>
+    </div>
+    <footer class="footer-container">
+        <div class="footer-box">
+            <p>© 2016 - 2022 Habbox</p>
+            <p>
+                <a href="/help/4-rglement-d-habbox">Le règlement d'Habbox</a> |
+                <a href="/help/6-les-conditions-d-utilisation">Les conditions d'utilisation</a> |
+                <a href="/help/7-charte-de-protection-des-donnes-personnelles">Charte de protection des données personnelles</a> |
+                <a href="/help/8-politique-des-cookies">Politique des cookies</a> |
+                <a href="/help/3-le-guide-des-parents">Le guide des parents</a>
+            </p>
+        </div>
+    </footer>
+</section>
+
+
+<script src="/assets/js/js.cookie.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/jquery.history.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/jquery.fullscreen.min.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/jquery.magnific-popup.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/selectric.js?v=34212" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/functions.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/web/loading.js?v=4fce6a88841514ad4a5bb5bfe8931926" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/pagination.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/jquery.wysibb.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="/assets/js/more.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js" type="439d0723e6ff6c67f20d9332-text/javascript"></script>
+<script type="439d0723e6ff6c67f20d9332-text/javascript">
+    $("#buildTool").draggable();
+
+    let buildTool = document.getElementById('buildTool');
+    let buildToolShow = document.querySelector('.client-buildtool');
+    let buildButtons = document.querySelectorAll('#buildTool .buildButton');
+    let buildClose = document.querySelector('#buildTool .close-buildTool');
+
+    buildToolShow.addEventListener('click', () => {
+        if (buildTool.classList.contains('d-none')) {
+            buildTool.classList.remove('d-none');
+        } else {
+            buildTool.classList.add('d-none');
+        }
+    });
+
+    buildClose.addEventListener('click', () => {
+        buildTool.classList.add('d-none');
+    });
+
+    buildButtons.forEach(el => {
+        el.addEventListener('click', () => {
+            let input = el.parentNode.parentNode.querySelector('input');
+            let max = input.max;
+            let min = input.min;
+            let value = input.value === '' ? 0 : parseFloat(input.value);
+
+            if (el.classList.contains('plus')) {
+                if (input.name === 'item-hauteur') {
+                    if (value + 0.1 < max) {
+                        input.value = (value + 0.1).toFixed(2);
+                    }
+                } else {
+                    if (value++ < max) {
+                        input.value = value++;
+                    }
+                }
+            } else if (el.classList.contains('moins')) {
+                if (input.name === 'item-hauteur') {
+                    if (value - 0.1 > min) {
+                        input.value = (value - 0.1).toFixed(2);
+                    }
+                } else {
+                    if (value-- > min) {
+                        input.value = value--;
+                    }
+                }
+            } else if (el.classList.contains('stop')) {
+                input.value = '';
+            }
+
+            let event = new Event('change');
+            input.dispatchEvent(event);
+        })
+    });
+
+    let buildInputs = document.querySelectorAll('#buildTool .inputBox input');
+    buildInputs.forEach(el => {
+        el.addEventListener('change', () => {
+            let max = el.max;
+            let min = el.min;
+            let value = el.value === '' ? 0 : parseFloat(el.value);
+
+            if (value !== 0 && value > max) {
+                el.value = max;
+            }
+
+            if (value !== 0 && value < min) {
+                el.value = min;
+            }
+
+            $.ajax({
+                type: "POST",
+                data: {type: el.name, value: el.value},
+                url: '/buildtool-ajax',
+                success: result => {
+                    console.log(result.status)
+                    console.log(result.message)
+                }
+            })
+        })
+    });
+</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="439d0723e6ff6c67f20d9332-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6de6e26539873235","version":"2021.12.0","r":1,"token":"6d3c2af6ce5341968306157ab321b1d8","si":100}' crossorigin="anonymous"></script>
+</body>
+
+</html>
+    

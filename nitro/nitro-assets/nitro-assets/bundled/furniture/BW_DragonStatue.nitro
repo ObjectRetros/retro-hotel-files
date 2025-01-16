@@ -1,0 +1,239 @@
+
+    
+
+            <!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="robots" content="follow, index">
+    <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
+    <title>Page introuvable! - Habbox</title>
+
+    <meta name="description" content="Habbox - fais-toi plein d'amis, deviens un Habbo célèbre ! Séjourne GRATUITEMENT dans l'un des meilleurs hôtel habbo.">
+    <meta name="keywords" content="habbox, habboz, habbo, habbo hotel, habbocity, habbo city, habbo alpha, habboalpha, habboo, rétro, rétro habbo, bobbalive, adohotel, bobbahotel, habbix, jeu en ligne, serveur habbo, communauté, avatar, jeu, cosmic, virtual, world, social network, free, community, avatar, chat, online, teen, roleplaying, join, social, groups, forums, safe, play, games, online, friends, teens, rare, rare meubi, collect, make, collect, contact, meubi, furniture, pets, furnish room, share, expression, badges, hangout, music, celebrity, VIP visits, celebs, mmo, mmorpgs, massive multiplayer, dox , dox hotel, dox hotel, space hotel, space hotel, space, sunnie, sunnie day, sunnieday, habbo, HABBO, habbo hotel, habboo, habbo city, habbocity, cool, virtual world, vip, retro, retro hotel, habbo retro, free, free habbo, holo">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Habbox">
+    <meta name="twitter:description" content="Habbox - fais-toi plein d'amis et deviens un Habbo célèbre !">
+    <meta name="twitter:image" content="/assets/images/habbox_shone_logo.png">
+    <meta name="twitter:site" content="@habboxfrance">
+    <meta name="twitter:url" content="habbox.fr">
+    <meta name="twitter:widgets:csp" content="on">
+	
+    <meta property="og:title" content="Habbox">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="habbox.fr">
+    <meta property="og:image" content="/assets/images/habbox_shone_logo.png">
+    <meta property="og:description" content="Habbox - fais-toi plein d'amis et deviens un Habbo célèbre !">
+    <meta property="og:site_name" content="Habbox">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/bbeditor.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/fonts.css">
+    <link rel="stylesheet" href="/assets/css/flaticon.css">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="/assets/css/homes.css">
+    <link rel="stylesheet" href="/assets/css/selectric.css">
+    <link rel="stylesheet" href="/assets/css/circle.css?v=5">
+    <link rel="stylesheet" href="/assets/css/web.light.css?v=2">
+    <link rel="stylesheet" href="/assets/css/web.responsive.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+    <script src="/assets/js/jquery-3.2.1.min.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/jquery.ui.touch-punch.min.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="https://www.google.com/recaptcha/api.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+  
+    <script type="c223e48a30b37e19e8167525-text/javascript">
+    var Site = {
+        name: "Habbox",
+        url: "habbox.fr",
+        game_url: "",
+        figure_url: "https://images.habbox.fr/habbox-imaging"
+    }
+    
+      
+    var User = {
+        id: 0,
+        username: "",
+        online: 0,
+        is_logged: false,
+        is_staff: false
+    }
+    
+    var Configuration = {
+                revision: "2213",
+        cache: "AEEA19MN001C",
+    }
+    </script>
+</head>
+
+<body class="flex-container flex-direction-column">
+    <noscript>
+        <style>
+            .loading-container {
+                display: none;
+            }
+        </style>
+    </noscript>
+    <div class="loading-container">
+        <div id="loading-background"></div>
+        <div class="loading-content">
+            <div class="c100 center">
+                <span></span>
+                <div class="slice">
+                    <div class="bar"></div>
+                    <div class="fill"></div>
+                </div>
+            </div>
+            <div class="loading-bodytext"></div>
+        </div>
+    </div>
+
+    <div class="page-loading"></div>
+    <div class="notifications-container"></div>
+
+    <div class="cookies-accept-container">
+        <div class="close-container">&times;</div>
+        Habbox utilise ses propres cookies afin de vous garantir le meilleur service avec un contenu qui correspond au mieux. Si tu navigues sur notre site web, tu dois accepter notre politique en matière de cookies.
+        <a href="/help/14-cookie-beleid" target="_blank">Lire plus</a>
+    </div>
+
+    <div id="about-dialog" class="login-popup zoom-anim-dialog mfp-hide">
+        <h1 class="aside-title">Habbox Hôtel</h1>
+        <p>Merci d&#039;avoir joué sur Habbox!<br><br>Habbox a été conçu avec beaucoup d&#039;amour
+            ♥<br><br>
+            <h4>Propulsé par Cosmic 2.1.0</h4>
+        </p>
+        Merci à Raizer et Metus
+        <h5>Ainsi qu&#039;à tous les utilisateurs d&#039;Habbox ♥</h5>
+    </div>
+
+        <div id="login-dialog" class="login-popup zoom-anim-dialog mfp-hide">
+        <h3 class="aside-title">Espace de connexion</h3>
+        <div class="login-form">
+            <label for="login-username-input-target" class="username-input">
+                <input type="text" name="username" class="rounded-input blue-active" id="login-username-input-target"
+                    placeholder="Pseudo..." required>
+                <i class="flaticon-user-1"></i>
+            </label>
+            <label for="login-password-input-target" class="password-input">
+                <input type="password" name="password" class="rounded-input blue-active"
+                    id="login-password-input-target" placeholder="Mot de passe..." autocomplete="off"
+                    required>
+                <i class="flaticon-padlock"></i>
+            </label>
+            <input type="hidden" name="csrftoken" value="" />
+            <a href="password/claim" class="claim-password" data-close-popup="true"
+                style="margin-top:1px">Mot de passe oublié ?</a>
+            <button type="submit" class="rounded-button blue plain" id="login-request">Connexion</button>
+        </div>
+    </div>
+        
+    <header class="header-container pixelated is-small">
+        <div class="header-content"> 
+            <div class="logo"><a href="/home"><img src="https://www.habbox.fr/assets/images/habbox_logo.png"
+                        style="margin-top: 10px;"></a></div>
+            <div class="account-container">
+                <div class="account-title">
+                    Rejoins-nous et fais-toi de nouveaux amis !
+                </div>
+
+                <div class="account-buttons">
+                                        <button class="rounded-button white login-dialog-button">Connexion</button>
+                    <span>of</span>
+                    <a href="/registration" class="rounded-button white plain">Inscris-toi gratuitement !</a>
+                                    </div>
+            </div>
+        </div>
+    </header>
+
+    <nav class="navigation-container">
+        <ul class="navigation-menu flex-container">
+		    <li class="navigation-item main-link-item">
+				<a id="logo-medium">Habbox</a>
+			</li>
+            <li class="navigation-item " data-category="home"><a
+                    href="/home">Accueil</a></li>
+            <li class="navigation-item has-items "
+                data-category="community">
+                <a href="/articles">Communauté</a>
+                <ul class="navigation-submenu">
+                    <li class="navigation-subitem"><a href="/articles">Nouveautés</a></li>
+                    <li class="navigation-subitem"><a href="/jobs">Recrutements</a></li>
+                    <li class="navigation-subitem"><a href="/community/staff">Équipe</a></li>
+                </ul>
+            </li>
+
+            
+            <li class="navigation-item " data-category="games"><a
+                    href="/games/ranking">Classements</a></li>
+
+            <li class="navigation-item has-items " data-category="help">
+                <a href="/help">Support</a>
+                <ul class="navigation-submenu">
+                    <li class="navigation-subitem"><a href="/help">Support d&#039;aide</a></li>
+                                    </ul>
+            </li>
+
+            
+                    </ul>
+    </nav>
+
+    <section class="page-container" data-page="lost">
+        <div class="page-content">
+    <div class="left-side">
+    <article class="default-section">
+        <div class="aside-title-content">Page introuvable!</div>
+        <div class="aside-content">
+            <img style="float:right" src="/assets/images/web/pages/lost/error.gif" />
+            Désolé, mais la page que tu cherches n&#039;existe pas.<br><br>Vérifie de nouveau si tu te trouves sur le bon lien URL. Si tu reviens-ici (Bon retour parmi-nous!). Retourne ensuite d&#039;où tu viens avec le bouton retour si tu le souhaites!
+        </div>
+    </article>
+    </div>
+
+    <div class="right-side">
+        <article class="default-section">
+            <div class="aside-title-content">Peut-être que tu cherches...</div>
+            <div class="aside-content">
+                <p><b>L&#039;appart d&#039;un de tes amis?</b><br/>Peut être que celui-ci est déjà <a href="/games/ranking">Classements</a>.</p>
+
+                <p><b>Apparts populaires?</b><br/>Explore-le <a href="/hotel" target="_blank">Navigateur</a>.</p>
+
+                <p><b>J&#039;ai perdu mes chaussons!</b><br/>Il faut vraiment cherche plus loin! :-)</p>
+            </div>
+        </article>
+    </div>
+</div>
+    </section>
+
+<footer class="footer-container">
+        <div class="footer-social-buttons flex-container flex-horizontal-center">
+		    <a href="https://www.instagram.com/habboxfrance" class="instagram-button" target="_blank"></a>
+		    <a href="https://www.facebook.com/habboxfrance" class="facebook-button" target="_blank"></a>
+            <a href="https://www.twitter.com/habboxfrance" class="twitter-button" target="_blank"></a>
+			<a href="https://discord.gg/J5dDk9DGDW" class="discord-button" target="_blank"></a>
+			<a href="https://www.tiktok.com/@habboxfrance" class="tiktok-button" target="_blank"></a>
+			<a href="#" class="about-dialog-button"></a></div>
+        <div class="footer-copyright">&copy; 2016 - 2021 Habbox Hôtel | <a href="/help/">Support</a> | <a href="/help/4-rglement-d-habbox">Le règlement d&#039;Habbox</a> | <a href="/help/6-les-conditions-d-utilisation">Les conditions d&#039;utilisation</a> | <a href="/help/7-charte-de-protection-des-donnes-personnelles">Charte de protection des données personnelles</a> | <a href="/help/8-politique-des-cookies">Politique des cookies</a> | <a href="/help/3-le-guide-des-parents">Le guide des parents</a></div>
+    </footer>
+
+    
+    <script src="/assets/js/js.cookie.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/jquery.history.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/jquery.fullscreen.min.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/jquery.magnific-popup.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/selectric.js?v=3412" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/functions.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/web/loading.js?v=0211" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/pagination.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="/assets/js/jquery.wysibb.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="c223e48a30b37e19e8167525-text/javascript"></script>
+
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="c223e48a30b37e19e8167525-|49" defer=""></script></body>
+
+</html>
+    
