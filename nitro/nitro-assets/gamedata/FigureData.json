@@ -83668,6 +83668,72 @@
                             "colorindex": 1
                         }
                     ]
+                },
+                {
+                    "id": 20000,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": false,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 20000,
+                            "type": "ch",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 1
+                        }
+                    ],
+                    "hiddenLayers": [
+                        { "partType": "rh" },
+                        { "partType": "lh" },
+                        { "partType": "bd" },
+                        { "partType": "lg" },
+                        { "partType": "sh" },
+                        { "partType": "cc" },
+                        { "partType": "lc" },
+                        { "partType": "rc" },
+                        { "partType": "ls" },
+                        { "partType": "rs" },
+                        { "partType": "wa" },
+                        { "partType": "ca" },
+                        { "partType": "cp" }
+                    ]
+                },
+                {
+                    "id": 20001,
+                    "gender": "U",
+                    "club": 0,
+                    "colorable": false,
+                    "selectable": false,
+                    "preselectable": false,
+                    "sellable": false,
+                    "parts": [
+                        {
+                            "id": 20001,
+                            "type": "ch",
+                            "colorable": false,
+                            "index": 0,
+                            "colorindex": 1
+                        }
+                    ],
+                    "hiddenLayers": [
+                        { "partType": "rh" },
+                        { "partType": "lh" },
+                        { "partType": "bd" },
+                        { "partType": "lg" },
+                        { "partType": "sh" },
+                        { "partType": "cc" },
+                        { "partType": "lc" },
+                        { "partType": "rc" },
+                        { "partType": "ls" },
+                        { "partType": "rs" },
+                        { "partType": "wa" },
+                        { "partType": "ca" },
+                        { "partType": "cp" }
+                    ]
                 }
             ],
             "mandatory_f_0": true,

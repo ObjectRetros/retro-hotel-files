@@ -5965,6 +5965,22 @@
 <set id="908702" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
 <part id="9002" type="ch" colorable="1" index="0" colorindex="1"/>
 </set>
+<set id="20000" gender="U" club="0" colorable="0" selectable="0" preselectable="0">
+<part id="20000" type="ch" colorable="0" index="0" colorindex="1"/>
+<hiddenlayers>
+<layer parttype="rh"/><layer parttype="lh"/><layer parttype="bd"/><layer parttype="lg"/><layer parttype="sh"/>
+<layer parttype="cc"/><layer parttype="lc"/><layer parttype="rc"/><layer parttype="ls"/><layer parttype="rs"/>
+<layer parttype="wa"/><layer parttype="ca"/><layer parttype="cp"/>
+</hiddenlayers>
+</set>
+<set id="20001" gender="U" club="0" colorable="0" selectable="0" preselectable="0">
+<part id="20001" type="ch" colorable="0" index="0" colorindex="1"/>
+<hiddenlayers>
+<layer parttype="rh"/><layer parttype="lh"/><layer parttype="bd"/><layer parttype="lg"/><layer parttype="sh"/>
+<layer parttype="cc"/><layer parttype="lc"/><layer parttype="rc"/><layer parttype="ls"/><layer parttype="rs"/>
+<layer parttype="wa"/><layer parttype="ca"/><layer parttype="cp"/>
+</hiddenlayers>
+</set>
 </settype>
 <settype type="lg" paletteid="3" mand_m_0="1" mand_f_0="1" mand_m_1="1" mand_f_1="1">
 <set id="715" gender="F" club="0" colorable="1" selectable="1" preselectable="0">
